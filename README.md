@@ -35,6 +35,7 @@ The unique disadvantage that I noticed pushing is a bit slow but not big deal.
 Create an empty repository on GitHub then:
 ```sh
 gcrypt init git@github.com:user/repo.git
+# or
 gcrypt init git@github.com:user/repo.git ~/Desktop/my-encrypted-repo
 ```
 
@@ -48,6 +49,7 @@ just keeping a single commit/branch where would be all encrypted togheter.\
 #### Clone encrypted repository
 ```sh
 gcrypt clone git@github.com:user/repo.git
+# or
 gcrypt clone git@github.com:user/repo.git ~/Desktop/my-encrypted-repo
 ```
 
