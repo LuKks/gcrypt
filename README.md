@@ -28,7 +28,7 @@ npm i -g LuKks/gcrypt
 ## Description
 Makes easy to work with fully encrypted git repositories.\
 It uses [spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt), so check it out.\
-The unique disadvantage that I noticed pushing is a bit slow but not big deal.
+The unique disadvantage that I noticed pushing is a bit slow but not big deal.\
 Using your PGP key for encryption, if you have multiple keys read [git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt).
 
 ## Examples
