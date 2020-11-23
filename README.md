@@ -1,6 +1,6 @@
 # gcrypt
 
-Encrypted git repositories made easy
+Encrypted git repositories made easy for privacy
 
 ![](https://img.shields.io/npm/v/gcrypt.svg) ![](https://img.shields.io/npm/dt/gcrypt.svg) ![](https://img.shields.io/github/license/LuKks/gcrypt.svg)
 
