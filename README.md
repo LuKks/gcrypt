@@ -54,7 +54,7 @@ gcrypt clone git@github.com:user/repo.git ~/Desktop/my-encrypted-repo
 ```
 
 ## Useful links
-https://github.com/spwhitton/git-remote-gcrypt
+https://github.com/spwhitton/git-remote-gcrypt/
 https://www.alwaysrightinstitute.com/gcrypt/
 https://caolan.uk/articles/encrypted-git-repositories/
 
