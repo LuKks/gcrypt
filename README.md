@@ -44,7 +44,7 @@ gcrypt init git@github.com:user/repo.git ~/Desktop/my-encrypted-repo
 gcrypt encrypt git@github.com:user/repo.git
 ```
 Take caution, it will erase the entire repository (branches, tags, etc),\
-just keeping a single commit/branch where would be all encrypted togheter.\
+just keeping a single commit/branch where would be all encrypted togheter.
 
 #### Clone encrypted repository
 ```sh
