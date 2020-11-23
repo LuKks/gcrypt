@@ -1,0 +1,28 @@
+{
+  "name": "gcrypt",
+  "version": "0.1.0",
+  "description": "Encrypted git repositories made easy",
+  "main": "cli.sh",
+  "bin": {
+    "gcrypt": "cli.sh",
+    "gcrypt-init": "init.sh",
+    "gcrypt-encrypt": "encrypt.sh",
+    "gcrypt-clone": "clone.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuKks/gcrypt.git"
+  },
+  "author": "Lucas Barrena <lucasbarrena98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuKks/gcrypt/issues"
+  },
+  "homepage": "https://github.com/LuKks/gcrypt#readme",
+  "keywords": [
+    "git",
+    "remote",
+    "gcrypt",
+    "encrypt"
+  ]
+}
