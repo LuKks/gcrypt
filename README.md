@@ -22,7 +22,7 @@ apt install git-remote-gcrypt
 
 ## Install
 ```sh
-npm i -g gcrypt
+npm i -g LuKks/gcrypt
 ```
 
 ## Description
