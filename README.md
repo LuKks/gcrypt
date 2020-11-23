@@ -54,6 +54,20 @@ gcrypt clone git@github.com:user/repo.git
 gcrypt clone git@github.com:user/repo.git ~/Desktop/my-encrypted-repo
 ```
 
+## Notes
+#### Multiple GPG keys
+If you have multiple GPG keys, set which would be used for encryption.
+
+Check your GPG keys list:
+```sh
+gpg --list-secret-keys --keyid-format LONG
+```
+
+And set it:
+```sh
+git config --global --add gcrypt.participants "A1234B1234C1234D"
+```
+
 ## Useful links
 https://github.com/spwhitton/git-remote-gcrypt/ \
 https://www.alwaysrightinstitute.com/gcrypt/ \
