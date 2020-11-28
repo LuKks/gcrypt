@@ -2,7 +2,7 @@
 
 Encrypted git repositories for privacy made easy
 
-![](https://img.shields.io/npm/v/gcrypt.svg) ![](https://img.shields.io/npm/dt/gcrypt.svg) ![](https://img.shields.io/github/license/LuKks/gcrypt.svg)
+![](https://img.shields.io/github/license/LuKks/gcrypt.svg)
 
 ```sh
 # Create a new remote encrypted repository 
