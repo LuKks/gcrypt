@@ -1,6 +1,6 @@
 {
   "name": "gcrypt",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Encrypted git repositories for privacy made easy",
   "main": "cli.sh",
   "bin": {
